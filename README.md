@@ -6,9 +6,9 @@ Quick Start
 
 Run the main program:
 
-'''
+
 python3 nfl_main.py
-'''
+
 
 Main Menu Commands
 
@@ -32,7 +32,7 @@ File Overview
 
     nfl_main.py: Run this file. It handles the user interface and game inputs.
 
-    db_commands.py: Run this separately to view stats, backup, or clean the database ('''python3 db_commands.py''').
+    db_commands.py: Run this separately to view stats, backup, or clean the database (python3 db_commands.py).
 
     nflpick.py: Contains the math, genetic algorithm, and normalization logic.
 
