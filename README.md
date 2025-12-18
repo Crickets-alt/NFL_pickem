@@ -6,7 +6,7 @@ Quick Start
 
 Run the main program:
 
-python3 nfl_main.py
+    python3 nfl_main.py
 
 
 Main Menu Commands
