@@ -1,11 +1,10 @@
-NFL Pick'em & Genetic Algorithm Optimizer
+NFL Pick'em 
 
 A Python-based command-line interface (CLI) tool designed to manage NFL pick'em pools. This application allows users to manually track games, apply algorithmic adjustments (momentum, rest, division rivalries), and utilizes a Genetic Algorithm (GA) to generate optimized pick slates based on historical win probabilities.
 
 Quick Start
 
 Run the main program:
-
 
 python3 nfl_main.py
 
